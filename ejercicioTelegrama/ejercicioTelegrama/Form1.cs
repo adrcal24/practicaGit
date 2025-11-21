@@ -29,6 +29,7 @@ namespace ejercicioTelegrama
             if (rdoUrgente.Checked)
             {
                 tipoTelegrama = 'u';
+
             }
             else
             {
